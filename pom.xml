@@ -10,7 +10,7 @@
 
 
     <properties>
-        <spring-core.version>5.1.8.RELEASE</spring-core.version>
+        <spring-core.version>5.3.18</spring-core.version>
         <spring-beans.version>5.1.8.RELEASE</spring-beans.version>
         <spring-context.version>5.1.8.RELEASE</spring-context.version>
         <commons-lang3.version>3.9</commons-lang3.version>
